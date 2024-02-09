@@ -1,5 +1,5 @@
 ThisBuild / organization := "com.example"
-ThisBuild / scalaVersion := "3.0.0"
+ThisBuild / scalaVersion := "3.3.1"
 
 lazy val root = (project in file(".")).settings(
   name := "cats-effect-3-quick-start",

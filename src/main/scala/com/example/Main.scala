@@ -2,10 +2,13 @@ package com.example
 
 import cats.effect.IOApp
 import cats.effect.IO
+// import StupidFizzBuzz
 
-object Main extends IOApp.Simple {
+@main def main() = StupidFizzBuzz.run()
 
-  // This is your new "main"!
-  def run: IO[Unit] =
-    HelloWorld.say().flatMap(IO.println)
-}
+// object Main extends IOApp.Simple {
+
+//   // This is your new "main"!
+//   def run: IO[Unit] =
+//     HelloWorld.say().flatMap(IO.println)
+// }
