@@ -331,3 +331,19 @@ WARNING: Unmatched cancel notification for request id 1363
 2024.02.09 16:14:30 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/Main.scala[0m
 2024.02.09 16:15:12 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/Main.scala[0m
 2024.02.09 16:16:23 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/StupidFizzBuzz.scala[0m
+2024.02.13 16:07:38 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/Main.scala[0m
+2024.02.13 16:09:08 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/Main.scala[0m
+Feb 13, 2024 4:09:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2340
+2024.02.13 16:09:36 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/StupidFizzBuzz.scala[0m
+2024.02.13 16:09:40 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/StupidFizzBuzz.scala[0m
+2024.02.13 16:10:11 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/StupidFizzBuzz.scala[0m
+2024.02.13 16:12:12 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/Main.scala[0m
+2024.02.13 16:12:43 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/Main.scala[0m
+2024.02.13 16:16:01 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/StupidFizzBuzz.scala[0m
+2024.02.13 16:16:38 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/StupidFizzBuzz.scala[0m
+2024.02.13 16:17:31 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/StupidFizzBuzz.scala[0m
+2024.02.13 16:17:50 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/StupidFizzBuzz.scala[0m
+2024.02.13 16:25:04 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/StupidFizzBuzz.scala[0m
+2024.02.13 16:25:36 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/StupidFizzBuzz.scala[0m
+2024.02.13 16:26:22 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/StupidFizzBuzz.scala[0m

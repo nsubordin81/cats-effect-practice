@@ -4,7 +4,7 @@ import cats.effect.IOApp
 import cats.effect.IO
 // import StupidFizzBuzz
 
-@main def main() = StupidFizzBuzz.run()
+@main def main() = StupidFizzBuzz.run(List())
 
 // object Main extends IOApp.Simple {
 
