@@ -347,3 +347,4 @@ WARNING: Unmatched cancel notification for request id 2340
 2024.02.13 16:25:04 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/StupidFizzBuzz.scala[0m
 2024.02.13 16:25:36 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/StupidFizzBuzz.scala[0m
 2024.02.13 16:26:22 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/StupidFizzBuzz.scala[0m
+2024.02.13 16:32:41 WARN  no build target for: /home/nsubordin81/code/scala_projects/cats-effect-3-quick-start/src/main/scala/com/example/StupidFizzBuzz.scala[0m

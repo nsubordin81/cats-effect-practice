@@ -22,7 +22,7 @@ import scala.concurrent.duration._
 
 object StupidFizzBuzz extends IOApp.Simple:
   val run =
-    for {
+    for
       ctr <- IO.ref(0)
 
       wait = IO.sleep(1.second)
@@ -33,7 +33,7 @@ object StupidFizzBuzz extends IOApp.Simple:
       _ <- poll.map(_ % 5 == 0).ifM(IO.println("buzz"), IO.unit).foreverM.start
 
       _ <- (wait *> ctr.update(_ + 1)).foreverM.void
-    } yield ()
+    yield ()
 
 
 
