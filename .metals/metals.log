@@ -665,3 +665,7 @@ INFO: Unsupported notification method: $/setTrace
 2024.02.23 00:01:23 INFO  time: Connected to build server in 4.86s[0m
 2024.02.23 00:01:23 INFO  Connected to Build server: Bloop v1.5.15[0m
 2024.02.23 00:01:28 INFO  time: indexed workspace in 5.24s[0m
+2024.02.23 00:19:47 INFO  compiling root (3 scala sources)[0m
+2024.02.23 00:19:50 INFO  time: compiled root in 2.17s[0m
+2024.02.23 00:20:20 INFO  compiling root (1 scala source)[0m
+2024.02.23 00:20:20 INFO  time: compiled root in 0.32s[0m
