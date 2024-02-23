@@ -36,6 +36,8 @@ object StupidFizzBuzz extends IOApp.Simple:
       // kind of like forcing streaming to look imperative?
       poll = wait *> ctr.get
 
+      // ok so this part looks like it is doing 3 things in the for yield
+      // first starting the counter?? not sure there
       _ <- poll.flatMap(IO.println(_)).foreverM.start
       _ <- poll.map(_ % 3 == 0).ifM(IO.println("fizz"), IO.unit).foreverM.start
       _ <- poll.map(_ % 5 == 0).ifM(IO.println("buzz"), IO.unit).foreverM.start
